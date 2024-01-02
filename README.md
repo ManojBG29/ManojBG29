@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ManojBG29
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning M.Sc.Applied Statistics
+- 👀 A PostGraduate in Applied statistics having great passion for persuing career in field of Data Analysis.
 - 💞️ I’m looking to collaborate on projects involving data analytics to extract meaningful insights from complex datasets.
 - 📫 How to reach me bgmanu042@gmail.com
 
